@@ -32,4 +32,4 @@ Exercício com Lista Simplesmente Encadeada (Linked List).
 
 ## Fluxo de Testes
 
-> A fazer.
+> A fazer..
